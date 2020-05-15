@@ -3,6 +3,12 @@ import { Timeline, TimelineItem }  from 'vertical-timeline-component-for-react'
 
 const experiences = [
   {
+    title: "Software Engineer Intern",
+    company: "Capital One",
+    dateText: "June 2020 - Present",
+    list: []
+  },
+  {
     title: "CIS 120 Teaching Assistant",
     company: "University of Pennsylvania",
     dateText: "Aug 2019 - Present",

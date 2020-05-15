@@ -13,7 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I'm currently a <strong>sophomore</strong>  at the University of Pennsylvania majoring
+                    <p>I'm currently a <strong>rising junior</strong>  at the University of Pennsylvania majoring
 in computer science. I’m fascinated by how software has challenged the boundaries of what can and cannot be done. 
 From machine learning that make what is arduous to an average human effortless to efficient algorithms 
 that tackle big issues seamlessly, I aspire to be a <strong>software engineer</strong>  that handles it all. 
@@ -45,6 +45,7 @@ I’m an <i>enthusiastic</i> and <i>purpose-driven</i> individual who also knows
                                     <li>Java</li>
                                     <li>Python</li>
                                     <li>JavaScript</li>
+                                    <li>SQL</li>
                                     <li>HTML/CSS</li>
                                 </ul>
                             </div>
@@ -53,8 +54,9 @@ I’m an <i>enthusiastic</i> and <i>purpose-driven</i> individual who also knows
                                     <b>Proficient</b>
                                     <li>OCaml</li>
                                     <li>C</li>
-                                    <li>SQL</li>
                                     <li>C#</li>
+                                    <li>Ruby</li>
+                                    <li>PHP</li>
                                 </ul>
                             </div>
                         </div>
