@@ -1,8 +1,8 @@
 {
-  "name": "portfolio-app",
+  "name": "wendywu-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dbarochiya.github.io/me",
+  "homepage": "https://wendywu830.github.io/",
   "dependencies": {
     "bootstrap": "^4.4.1",
     "gh-pages": "^2.0.1",
